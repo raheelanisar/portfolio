@@ -1,13 +1,7 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [YOUR NAME]
+title: [Raheela Nisar]
 logo: /raheela/hs.jpeg
 theme: jekyll-theme-minimal
-description: [This portfolio website represents Raheela Nisar, a Computer Science student and aspiring AI specialist. The website is designed to showcase her academic background, technical skills, and projects in a clean and professional layout.
 
-It includes sections such as About Me, Education, Projects, Skills, and Contact Information, allowing visitors to easily understand her profile and capabilities. The design focuses on simplicity, readability, and user-friendly navigation.
-
-The portfolio highlights key projects like a Student Information System (C++), Airline Reservation System (Java), and NEON-X86 simulation, demonstrating her knowledge in programming, object-oriented concepts, and digital logic design.
-
-This website serves as a digital resume and a foundation for future enhancements, especially in the field of AI and Automation.]
